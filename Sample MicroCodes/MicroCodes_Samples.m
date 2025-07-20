@@ -7,6 +7,8 @@
 % ---> Please refer to the GitHub repository above for information <---
 % ---> on how to cite this work. <---
 % 
+% ---> This code needs the following library: https://sites.google.com/site/ulfgri/numerical/gdsii-toolbox.
+%
 % Permission is hereby granted, free of charge, to any person obtaining a copy
 % of this software and associated documentation files (the "Software"), to deal
 % in the Software without restriction, including without limitation the rights
