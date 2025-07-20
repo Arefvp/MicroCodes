@@ -1,0 +1,18 @@
+MicroCoded- culture slides / culture dishes
+github.com/Arefvp/MicroCodes
+
+These masks and STL files were created for cover slips or slides with a dimension of at least 24 mm by 24 mm.
+
+To fabricate the slides use the GDSII file:
+1. XOR the two layers for lift-off where MicroCodes will be indented (as seen on the paper);
+2. Directly expose the MicroCodes layer for etching of the same;
+3. Use the reverse of the intended for creating hard masks;
+4. Use KLayout for editting the masks;
+5. Feel free to reach out for questions or collaborations!
+  
+STL files for culture chamber and cap (As seen on the our paper) are included. 
+Use 22 mm by 22 mm square cover slips to cover the gap on the cover. 
+  -This ensures the transparency of the cap. 
+We tested these structures using a Formlabs Form 4B printer with BioMed Clear resin as described on our paper. 
+  -However there is no guarantee (including of functionality) regarling these files. 
+  -Use with your own risk.
